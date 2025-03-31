@@ -1,5 +1,9 @@
 # Finance -Dashboard
-This repository contains the source files for a visually appealing and user-friendly Financial Dashboard UI. Designed with a modern aesthetic, it provides a comprehensive overview of personal finances, including income, expenses, savings, and targets.
+## Project Objective
+Analyze personal financial data to identify trends and optimize spending, savings, and income growth.
+
+##Dataset Used
+
 
 ##Questions(KPI)
 - What is driving the upward trend in expenses over the years?

@@ -17,7 +17,7 @@ Analyze personal financial data to identify trends and optimize spending, saving
 - How can mutual fund investments be further optimized or diversified?
 - How can financial growth continue while controlling increasing expenses?
 
-  ##Dashboard Interaction
+  ##Dashboard Interaction <a href = "https://github.com/RAJUMATAM/Data-Analysis-Dashboard/blob/main/POWER%20BI%20NEW.PNG">View Dashboard</a>
 
 
 

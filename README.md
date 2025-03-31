@@ -1,9 +1,12 @@
-# Finance -Dashboard
+# Finance -Dashboard(Using PowerBI and Dax)
+
 ### Project Objective
 Analyze personal financial data to identify trends and optimize spending, savings, and income growth.
 
+
 ### Dataset Used
 - <a href = "https://github.com/RAJUMATAM/Data-Analysis-Dashboard/blob/main/Finance%20Dataset.xlsx">Dataset</a>
+
 
 ### Questions..?
 - What is driving the upward trend in expenses over the years?
@@ -22,6 +25,7 @@ Analyze personal financial data to identify trends and optimize spending, saving
 
 ### Dashboard 
 ![POWER BI NEW](https://github.com/user-attachments/assets/3af6a536-c603-45aa-bc9f-0c7fcdfb21ac)
+
 
 ### KPI
 - Expense Growth: Annual increase in expenses.

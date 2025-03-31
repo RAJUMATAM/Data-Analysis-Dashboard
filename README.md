@@ -5,7 +5,6 @@ Analyze personal financial data to identify trends and optimize spending, saving
 ##Dataset Used
 - <a href = "https://github.com/RAJUMATAM/Data-Analysis-Dashboard/blob/main/Finance%20Dataset.xlsx">Dataset</a>
 
-
 ##Questions(KPI)
 - What is driving the upward trend in expenses over the years?
 - What contributed to the increase in income during the recent period?
@@ -17,3 +16,8 @@ Analyze personal financial data to identify trends and optimize spending, saving
 - What caused the increase in expenses in the recent period?
 - How can mutual fund investments be further optimized or diversified?
 - How can financial growth continue while controlling increasing expenses?
+
+  ##Dashboard Interaction
+
+
+
